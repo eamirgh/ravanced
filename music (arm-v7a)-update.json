@@ -1,6 +1,6 @@
 {
-  "version": "v7.29.52 (patches 5.39.0)",
-  "versionCode": 15,
-  "zipUrl": "https://github.com/eamirgh/ravanced/releases/download/15/music-revanced-magisk-v7.29.52-arm-v7a.zip",
+  "version": "v8.10.52 (patches 5.40.0)",
+  "versionCode": 16,
+  "zipUrl": "https://github.com/eamirgh/ravanced/releases/download/16/music-revanced-magisk-v8.10.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/eamirgh/ravanced/update/build.md"
 }
